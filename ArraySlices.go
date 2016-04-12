@@ -25,6 +25,7 @@ func Sum1(a [3]int) (sum int) {
 func main() {
 	fmt.Println("hello World")
 //edit1
+//edit2
 	//arrays
 	// 3 ways to declare arrays
 	//	var x [5]float64
